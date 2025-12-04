@@ -1,0 +1,15 @@
+package linkedin.enums;
+
+public enum NotificationType {
+    CONNECTION_REQUEST,
+    CONNECTION_ACCEPTED,
+    MESSAGE_RECEIVED,
+    JOB_POSTED,
+    JOB_APPLICATION_RECEIVED,
+    JOB_APPLICATION_STATUS_UPDATE,
+    PROFILE_VIEW,
+    ENDORSEMENT
+}
+
+
+

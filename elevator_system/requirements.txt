@@ -1,0 +1,16 @@
+# Elevator System Dependencies
+
+# Core dependencies
+sortedcontainers>=2.4.0
+
+# Testing dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Development dependencies (optional)
+mypy>=1.0.0
+black>=23.0.0
+ruff>=0.0.280
+
+
+

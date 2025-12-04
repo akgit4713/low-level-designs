@@ -1,0 +1,18 @@
+package airline.exceptions;
+
+/**
+ * Exception for payment-related errors.
+ */
+public class PaymentException extends AirlineException {
+    
+    public PaymentException(String message) {
+        super(message);
+    }
+
+    public PaymentException(String message, Throwable cause) {
+        super(message, cause);
+    }
+}
+
+
+

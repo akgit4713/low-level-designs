@@ -1,0 +1,15 @@
+package ridesharing.exceptions;
+
+public class PaymentException extends RideSharingException {
+    
+    public PaymentException(String message) {
+        super(message);
+    }
+    
+    public PaymentException(String message, Throwable cause) {
+        super(message, cause);
+    }
+}
+
+
+
