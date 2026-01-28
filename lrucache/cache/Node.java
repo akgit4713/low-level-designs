@@ -13,6 +13,7 @@ public class Node<K, V> {
     private V value;
     private Node<K, V> prev;
     private Node<K, V> next;
+    private int frequency;
     
     public Node(K key, V value) {
         this.key = key;
@@ -51,6 +52,13 @@ public class Node<K, V> {
     
     public void setNext(Node<K, V> next) {
         this.next = next;
+    }
+
+    public int getFrequency() {
+        return frequency;
+    }
+    public void setFrequency(int frequency) {
+        this.frequency = frequency;
     }
     
     @Override

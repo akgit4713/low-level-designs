@@ -51,7 +51,7 @@ public class VenueFactory {
             .address(address)
             .city(city)
             .addSection(createSection("VIP Front", SectionType.VIP, 3, 20))
-            .addSection(createSection("Premium Center", SectionType.PREMIUM, 5, 25))
+            .addSection(createSection("Premium Center", SectionType.PLATINUM, 5, 25))
             .addSection(createSection("Standard", SectionType.GENERAL, 10, 30))
             .build();
     }

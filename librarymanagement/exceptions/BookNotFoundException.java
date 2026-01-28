@@ -5,9 +5,6 @@ package librarymanagement.exceptions;
  */
 public class BookNotFoundException extends LibraryException {
     
-    public BookNotFoundException(String message) {
-        super(message);
-    }
 
     public BookNotFoundException(String bookId) {
         super("Book not found with ID: " + bookId);
