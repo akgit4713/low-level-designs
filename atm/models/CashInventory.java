@@ -74,6 +74,13 @@ public class CashInventory {
         }
     }
 
+
+    public void updateInventory(Map<Denomination, Integer> dispensedNotes) {
+        for(Map.Entry<Denomination, Integer> entry : dispensedNotes.entrySet()) {
+            inventory.merge(entry.getKey(), -entry.getValue(), Integer::sum);
+        }
+    }
+
     /**
      * Calculate notes to dispense for given amount.
      * Uses greedy algorithm with highest denominations first.

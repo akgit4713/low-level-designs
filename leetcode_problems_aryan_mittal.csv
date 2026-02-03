@@ -1,0 +1,356 @@
+Problem Number,Problem Name,LeetCode Link,Difficulty,Category
+198,House Robber,https://leetcode.com/problems/house-robber/,Medium,Dynamic Programming
+64,Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum/,Medium,Dynamic Programming
+1143,Longest Common Subsequence,https://leetcode.com/problems/longest-common-subsequence/,Medium,Dynamic Programming
+300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Medium,Dynamic Programming
+139,Word Break,https://leetcode.com/problems/word-break/,Medium,Dynamic Programming
+1140,Stone Game II,https://leetcode.com/problems/stone-game-ii/,Medium,Dynamic Programming
+1289,Minimum Falling Path Sum II,https://leetcode.com/problems/minimum-falling-path-sum-ii/,Hard,Dynamic Programming
+647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Medium,Dynamic Programming
+91,Decode Ways,https://leetcode.com/problems/decode-ways/,Medium,Dynamic Programming
+576,Out of Boundary Paths,https://leetcode.com/problems/out-of-boundary-paths/,Medium,Dynamic Programming
+368,Largest Divisible Subset,https://leetcode.com/problems/largest-divisible-subset/,Medium,Dynamic Programming
+2370,Longest Ideal Subsequence,https://leetcode.com/problems/longest-ideal-subsequence/,Medium,Dynamic Programming
+516,Longest Palindromic Subsequence,https://leetcode.com/problems/longest-palindromic-subsequence/,Medium,Dynamic Programming
+279,Perfect Squares,https://leetcode.com/problems/perfect-squares/,Medium,Dynamic Programming
+1406,Stone Game III,https://leetcode.com/problems/stone-game-iii/,Hard,Dynamic Programming
+2707,Extra Characters in a String,https://leetcode.com/problems/extra-characters-in-a-string/,Medium,Dynamic Programming
+494,Target Sum,https://leetcode.com/problems/target-sum/,Medium,Dynamic Programming
+377,Combination Sum IV,https://leetcode.com/problems/combination-sum-iv/,Medium,Dynamic Programming
+1155,Number of Dice Rolls With Target Sum,https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/,Medium,Dynamic Programming
+435,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,Medium,Dynamic Programming
+2369,Check if There is a Valid Partition For The Array,https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/,Medium,Dynamic Programming
+2054,Two Best Non-Overlapping Events,https://leetcode.com/problems/two-best-non-overlapping-events/,Medium,Dynamic Programming
+983,Minimum Cost For Tickets,https://leetcode.com/problems/minimum-cost-for-tickets/,Medium,Dynamic Programming
+3186,Maximum Total Damage With Spell Casting,https://leetcode.com/problems/maximum-total-damage-with-spell-casting/,Medium,Dynamic Programming
+3040,Maximum Number of Operations With the Same Score II,https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii/,Medium,Dynamic Programming
+1043,Partition Array for Maximum Sum,https://leetcode.com/problems/partition-array-for-maximum-sum/,Medium,Dynamic Programming
+3366,Minimum Array Sum,https://leetcode.com/problems/minimum-array-sum/,Medium,Dynamic Programming
+688,Knight Probability in Chessboard,https://leetcode.com/problems/knight-probability-in-chessboard/,Medium,Dynamic Programming
+2140,Solving Questions With Brainpower,https://leetcode.com/problems/solving-questions-with-brainpower/,Medium,Dynamic Programming
+1035,Uncrossed Lines,https://leetcode.com/problems/uncrossed-lines/,Medium,Dynamic Programming
+1218,Longest Arithmetic Subsequence of Given Difference,https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/,Medium,Dynamic Programming
+486,Predict the Winner,https://leetcode.com/problems/predict-the-winner/,Medium,Dynamic Programming
+2466,Count Ways To Build Good Strings,https://leetcode.com/problems/count-ways-to-build-good-strings/,Medium,Dynamic Programming
+3122,Minimum Number of Operations to Satisfy Conditions,https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions/,Medium,Dynamic Programming
+3349,Adjacent Increasing Subarrays Detection I,https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/,Easy,Dynamic Programming
+3350,Adjacent Increasing Subarrays Detection II,https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/,Medium,Dynamic Programming
+3201,Find the Maximum Length of Valid Subsequence I,https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/,Medium,Dynamic Programming
+3202,Find the Maximum Length of Valid Subsequence II,https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/,Medium,Dynamic Programming
+3179,Find the N-th Value After K Seconds,https://leetcode.com/problems/find-the-n-th-value-after-k-seconds/,Medium,Dynamic Programming
+3181,Maximum Total Reward Using Operations II,https://leetcode.com/problems/maximum-total-reward-using-operations-ii/,Hard,Dynamic Programming
+3180,Maximum Total Reward Using Operations I,https://leetcode.com/problems/maximum-total-reward-using-operations-i/,Medium,Dynamic Programming
+678,Valid Parenthesis String,https://leetcode.com/problems/valid-parenthesis-string/,Medium,Dynamic Programming
+85,Maximal Rectangle,https://leetcode.com/problems/maximal-rectangle/,Hard,Dynamic Programming
+221,Maximal Square,https://leetcode.com/problems/maximal-square/,Medium,Dynamic Programming
+84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Hard,Dynamic Programming
+3393,Count Paths With the Given XOR Value,https://leetcode.com/problems/count-paths-with-the-given-xor-value/,Medium,Dynamic Programming
+2597,The Number of Beautiful Subsets,https://leetcode.com/problems/the-number-of-beautiful-subsets/,Medium,Dynamic Programming
+3085,Minimum Deletions to Make String K-Special,https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/,Medium,Dynamic Programming
+837,New 21 Game,https://leetcode.com/problems/new-21-game/,Medium,Dynamic Programming
+808,Soup Servings,https://leetcode.com/problems/soup-servings/,Medium,Dynamic Programming
+407,Trapping Rain Water II,https://leetcode.com/problems/trapping-rain-water-ii/,Hard,Dynamic Programming
+1235,Maximum Profit in Job Scheduling,https://leetcode.com/problems/maximum-profit-in-job-scheduling/,Hard,Dynamic Programming
+1547,Minimum Cost to Cut a Stick,https://leetcode.com/problems/minimum-cost-to-cut-a-stick/,Hard,Dynamic Programming
+664,Strange Printer,https://leetcode.com/problems/strange-printer/,Hard,Dynamic Programming
+1751,Maximum Number of Events That Can Be Attended II,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/,Hard,Dynamic Programming
+920,Number of Music Playlists,https://leetcode.com/problems/number-of-music-playlists/,Hard,Dynamic Programming
+1312,Minimum Insertion Steps to Make a String Palindrome,https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/,Hard,Dynamic Programming
+552,Student Attendance Record II,https://leetcode.com/problems/student-attendance-record-ii/,Hard,Dynamic Programming
+1575,Count All Possible Routes,https://leetcode.com/problems/count-all-possible-routes/,Hard,Dynamic Programming
+403,Frog Jump,https://leetcode.com/problems/frog-jump/,Hard,Dynamic Programming
+3041,Maximize Consecutive Elements in an Array After Modification,https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/,Hard,Dynamic Programming
+1335,Minimum Difficulty of a Job Schedule,https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/,Hard,Dynamic Programming
+1416,Restore The Array,https://leetcode.com/problems/restore-the-array/,Hard,Dynamic Programming
+2218,Maximum Value of K Coins From Piles,https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/,Hard,Dynamic Programming
+879,Profitable Schemes,https://leetcode.com/problems/profitable-schemes/,Hard,Dynamic Programming
+1463,Cherry Pickup II,https://leetcode.com/problems/cherry-pickup-ii/,Hard,Dynamic Programming
+87,Scramble String,https://leetcode.com/problems/scramble-string/,Hard,Dynamic Programming
+834,Sum of Distances in Tree,https://leetcode.com/problems/sum-of-distances-in-tree/,Hard,Dynamic Programming
+1639,Number of Ways to Form a Target String Given a Dictionary,https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/,Hard,Dynamic Programming
+3351,Sum of Good Subsequences,https://leetcode.com/problems/sum-of-good-subsequences/,Hard,Dynamic Programming
+3367,Maximize Sum of Weights after Edge Removals,https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/,Hard,Dynamic Programming
+1444,Number of Ways of Cutting a Pizza,https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/,Hard,Dynamic Programming
+2328,Number of Increasing Paths in a Grid,https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/,Hard,Dynamic Programming
+629,K Inverse Pairs Array,https://leetcode.com/problems/k-inverse-pairs-array/,Hard,Dynamic Programming
+3373,Maximize the Number of Target Nodes After Connecting Trees II,https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/,Hard,Dynamic Programming
+446,Arithmetic Slices II - Subsequence,https://leetcode.com/problems/arithmetic-slices-ii-subsequence/,Hard,Dynamic Programming
+1125,Smallest Sufficient Team,https://leetcode.com/problems/smallest-sufficient-team/,Hard,Dynamic Programming
+3213,Construct String with Minimum Cost,https://leetcode.com/problems/construct-string-with-minimum-cost/,Hard,Dynamic Programming
+1799,Maximize Score After N Operations,https://leetcode.com/problems/maximize-score-after-n-operations/,Hard,Dynamic Programming
+3098,Find the Sum of Subsequence Powers,https://leetcode.com/problems/find-the-sum-of-subsequence-powers/,Hard,Dynamic Programming
+2655,Subsequence With the Minimum Score,https://leetcode.com/problems/find-the-minimum-score-of-a-subsequence/,Hard,Dynamic Programming
+1187,Make Array Strictly Increasing,https://leetcode.com/problems/make-array-strictly-increasing/,Hard,Dynamic Programming
+3193,Count the Number of Inversions,https://leetcode.com/problems/count-the-number-of-inversions/,Hard,Dynamic Programming
+956,Tallest Billboard,https://leetcode.com/problems/tallest-billboard/,Hard,Dynamic Programming
+3363,Find the Maximum Number of Fruits Collected,https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/,Hard,Dynamic Programming
+3117,Minimum Sum of Values by Dividing Array,https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/,Hard,Dynamic Programming
+3352,Count K-Reducible Numbers Less Than N,https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/,Hard,Dynamic Programming
+3177,Find the Maximum Length of a Good Subsequence II,https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/,Hard,Dynamic Programming
+3176,Find the Maximum Length of a Good Subsequence I,https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-i/,Medium,Dynamic Programming
+3082,Find the Sum of the Power of All Subsequences,https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences/,Hard,Dynamic Programming
+3130,Find All Possible Stable Binary Arrays II,https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/,Hard,Dynamic Programming
+3129,Find All Possible Stable Binary Arrays I,https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/,Medium,Dynamic Programming
+3077,Maximum Strength of K Disjoint Subarrays,https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/,Hard,Dynamic Programming
+1531,String Compression II,https://leetcode.com/problems/string-compression-ii/,Hard,Dynamic Programming
+514,Freedom Trail,https://leetcode.com/problems/freedom-trail/,Hard,Dynamic Programming
+3444,Minimum Increments for Target Multiples in an Array,https://leetcode.com/problems/minimum-increments-for-target-multiples-in-an-array/,Hard,Dynamic Programming
+3448,Count Substrings Divisible By Last Digit,https://leetcode.com/problems/count-substrings-divisible-by-last-digit/,Hard,Dynamic Programming
+873,Length of Longest Fibonacci Subsequence,https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/,Medium,Dynamic Programming
+1092,Shortest Common Supersequence,https://leetcode.com/problems/shortest-common-supersequence/,Hard,Dynamic Programming
+3469,Find Minimum Cost to Remove Array Elements,https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements/,Medium,Dynamic Programming
+3472,Longest Palindromic Subsequence After at Most K Operations,https://leetcode.com/problems/longest-palindromic-subsequence-after-at-most-k-operations/,Medium,Dynamic Programming
+3473,Sum of K Subarrays With Length at Least M,https://leetcode.com/problems/sum-of-k-subarrays-with-length-at-least-m/,Medium,Dynamic Programming
+463,Island Perimeter,https://leetcode.com/problems/island-perimeter/,Easy,Graph
+1791,Find Center of Star Graph,https://leetcode.com/problems/find-center-of-star-graph/,Easy,Graph
+1971,Find if Path Exists in Graph,https://leetcode.com/problems/find-if-path-exists-in-graph/,Easy,Graph
+997,Find the Town Judge,https://leetcode.com/problems/find-the-town-judge/,Easy,Graph
+785,Is Graph Bipartite,https://leetcode.com/problems/is-graph-bipartite/,Medium,Graph
+200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Medium,Graph
+547,Number of Provinces,https://leetcode.com/problems/number-of-provinces/,Medium,Graph
+207,Course Schedule,https://leetcode.com/problems/course-schedule/,Medium,Graph
+802,Find Eventual Safe States,https://leetcode.com/problems/find-eventual-safe-states/,Medium,Graph
+787,Cheapest Flights Within K Stops,https://leetcode.com/problems/cheapest-flights-within-k-stops/,Medium,Graph
+133,Clone Graph,https://leetcode.com/problems/clone-graph/,Medium,Graph
+752,Open the Lock,https://leetcode.com/problems/open-the-lock/,Medium,Graph
+684,Redundant Connection,https://leetcode.com/problems/redundant-connection/,Medium,Graph
+934,Shortest Bridge,https://leetcode.com/problems/shortest-bridge/,Medium,Graph
+1162,As Far from Land as Possible,https://leetcode.com/problems/as-far-from-land-as-possible/,Medium,Graph
+2385,Amount of Time for Binary Tree to Be Infected,https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/,Medium,Graph
+2492,Minimum Score of a Path Between Two Cities,https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/,Medium,Graph
+3377,Digit Operations to Make Two Integers Equal,https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/,Medium,Graph
+3372,Maximize the Number of Target Nodes After Connecting Trees I,https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/,Medium,Graph
+1319,Number of Operations to Make Network Connected,https://leetcode.com/problems/number-of-operations-to-make-network-connected/,Medium,Graph
+2285,Maximum Total Importance of Roads,https://leetcode.com/problems/maximum-total-importance-of-roads/,Medium,Graph
+2316,Count Unreachable Pairs of Nodes in an Undirected Graph,https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/,Medium,Graph
+1254,Number of Closed Islands,https://leetcode.com/problems/number-of-closed-islands/,Medium,Graph
+2812,Find the Safest Path in a Grid,https://leetcode.com/problems/find-the-safest-path-in-a-grid/,Medium,Graph
+310,Minimum Height Trees,https://leetcode.com/problems/minimum-height-trees/,Medium,Graph
+909,Snakes and Ladders,https://leetcode.com/problems/snakes-and-ladders/,Medium,Graph
+2192,All Ancestors of a Node in a Directed Acyclic Graph,https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/,Medium,Graph
+399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Medium,Graph
+3243,Shortest Distance After Road Addition Queries I,https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/,Medium,Graph
+3244,Shortest Distance After Road Addition Queries II,https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii/,Hard,Graph
+3067,Count Pairs of Connectable Servers in a Weighted Tree Network,https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/,Medium,Graph
+1466,Reorder Routes to Make All Paths Lead to the City Zero,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/,Medium,Graph
+1992,Find All Groups of Farmland,https://leetcode.com/problems/find-all-groups-of-farmland/,Medium,Graph
+1743,Restore the Array From Adjacent Pairs,https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/,Medium,Graph
+2101,Detonate the Maximum Bombs,https://leetcode.com/problems/detonate-the-maximum-bombs/,Medium,Graph
+3112,Minimum Time to Visit Disappearing Nodes,https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/,Medium,Graph
+2872,Maximum Number of K-Divisible Components,https://leetcode.com/problems/maximum-number-of-k-divisible-components/,Hard,Graph
+2290,Minimum Obstacle Removal to Reach Corner,https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/,Hard,Graph
+2642,Design Graph With Shortest Path Calculator,https://leetcode.com/problems/design-graph-with-shortest-path-calculator/,Hard,Graph
+2360,Longest Cycle in a Graph,https://leetcode.com/problems/longest-cycle-in-a-graph/,Hard,Graph
+1293,Shortest Path in a Grid with Obstacles Elimination,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/,Hard,Graph
+773,Sliding Puzzle,https://leetcode.com/problems/sliding-puzzle/,Hard,Graph
+839,Similar String Groups,https://leetcode.com/problems/similar-string-groups/,Hard,Graph
+1579,Remove Max Number of Edges to Keep Graph Fully Traversable,https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/,Hard,Graph
+815,Bus Routes,https://leetcode.com/problems/bus-routes/,Hard,Graph
+864,Shortest Path to Get All Keys,https://leetcode.com/problems/shortest-path-to-get-all-keys/,Hard,Graph
+1697,Checking Existence of Edge Length Limited Paths,https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/,Hard,Graph
+2092,Find All People With Secret,https://leetcode.com/problems/find-all-people-with-secret/,Hard,Graph
+1970,Last Day Where You Can Still Cross,https://leetcode.com/problems/last-day-where-you-can-still-cross/,Hard,Graph
+1857,Largest Color Value in a Directed Graph,https://leetcode.com/problems/largest-color-value-in-a-directed-graph/,Hard,Graph
+2709,Greatest Common Divisor Traversal,https://leetcode.com/problems/greatest-common-divisor-traversal/,Hard,Graph
+2392,Build a Matrix With Conditions,https://leetcode.com/problems/build-a-matrix-with-conditions/,Hard,Graph
+3203,Find Minimum Diameter After Merging Two Trees,https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/,Hard,Graph
+3108,Minimum Cost Walk in Weighted Graph,https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/,Hard,Graph
+3123,Find Edges in Shortest Paths,https://leetcode.com/problems/find-edges-in-shortest-paths/,Hard,Graph
+1489,Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree,https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/,Hard,Graph
+2097,Valid Arrangement of Pairs,https://leetcode.com/problems/valid-arrangement-of-pairs/,Hard,Graph
+3068,Find the Maximum Sum of Node Values,https://leetcode.com/problems/find-the-maximum-sum-of-node-values/,Hard,Graph
+3378,Count Connected Components in LCM Graph,https://leetcode.com/problems/count-connected-components-in-lcm-graph/,Hard,Graph
+2115,Find All Possible Recipes from Given Supplies,https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/,Medium,Graph
+2685,Count the Number of Complete Components,https://leetcode.com/problems/count-the-number-of-complete-components/,Medium,Graph
+1976,Number of Ways to Arrive at Destination,https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/,Medium,Graph
+2503,Maximum Number of Points From Grid Queries,https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/,Hard,Graph
+2037,Minimum Number of Moves to Seat Everyone,https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/,Easy,Greedy
+1266,Minimum Time Visiting All Points,https://leetcode.com/problems/minimum-time-visiting-all-points/,Easy,Greedy
+409,Longest Palindrome,https://leetcode.com/problems/longest-palindrome/,Easy,Greedy
+2591,Distribute Money to Maximum Children,https://leetcode.com/problems/distribute-money-to-maximum-children/,Easy,Greedy
+57,Insert Interval,https://leetcode.com/problems/insert-interval/,Medium,Greedy
+56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Medium,Greedy
+452,Minimum Number of Arrows to Burst Balloons,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/,Medium,Greedy
+1382,Balance a Binary Search Tree,https://leetcode.com/problems/balance-a-binary-search-tree/,Medium,Greedy
+108,Convert Sorted Array to Binary Search Tree,https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/,Easy,Greedy
+402,Remove K Digits,https://leetcode.com/problems/remove-k-digits/,Medium,Greedy
+2763,Optimal Partition of String,https://leetcode.com/problems/optimal-partition-of-string/,Medium,Greedy
+3394,Check if Grid can be Cut into Sections,https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/,Medium,Greedy
+861,Score After Flipping Matrix,https://leetcode.com/problems/score-after-flipping-matrix/,Medium,Greedy
+1975,Maximum Matrix Sum,https://leetcode.com/problems/maximum-matrix-sum/,Medium,Greedy
+1605,Find Valid Matrix Given Row and Column Sums,https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/,Medium,Greedy
+1561,Maximum Number of Coins You Can Get,https://leetcode.com/problems/maximum-number-of-coins-you-can-get/,Medium,Greedy
+2182,Construct String With Repeat Limit,https://leetcode.com/problems/construct-string-with-repeat-limit/,Medium,Greedy
+3227,Vowels Game in a String,https://leetcode.com/problems/vowels-game-in-a-string/,Medium,Greedy
+2966,Divide Array Into Arrays With Max Difference,https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/,Medium,Greedy
+948,Bag of Tokens,https://leetcode.com/problems/bag-of-tokens/,Medium,Greedy
+3075,Maximize Happiness of Selected Children,https://leetcode.com/problems/maximize-happiness-of-selected-children/,Medium,Greedy
+2971,Find Polygon With the Largest Perimeter,https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/,Medium,Greedy
+1921,Eliminate Maximum Number of Monsters,https://leetcode.com/problems/eliminate-maximum-number-of-monsters/,Medium,Greedy
+1846,Maximum Element After Decreasing and Rearranging,https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/,Medium,Greedy
+2588,Count the Number of Beautiful Subarrays,https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/,Medium,Greedy
+2554,Maximum Number of Integers to Choose From a Range I,https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/,Medium,Greedy
+1792,Maximum Average Pass Ratio,https://leetcode.com/problems/maximum-average-pass-ratio/,Medium,Greedy
+3228,Maximum Number of Operations to Move Ones to the End,https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/,Medium,Greedy
+1759,Count Number of Homogenous Substrings,https://leetcode.com/problems/count-number-of-homogenous-substrings/,Medium,Greedy
+2391,Minimum Amount of Time to Collect Garbage,https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/,Medium,Greedy
+945,Minimum Increment to Make Array Unique,https://leetcode.com/problems/minimum-increment-to-make-array-unique/,Medium,Greedy
+1980,Find Unique Binary String,https://leetcode.com/problems/find-unique-binary-string/,Medium,Greedy
+826,Most Profit Assigning Work,https://leetcode.com/problems/most-profit-assigning-work/,Medium,Greedy
+2825,Make String a Subsequence Using Cyclic Increments,https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/,Medium,Greedy
+1647,Minimum Deletions to Make Character Frequencies Unique,https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/,Medium,Greedy
+1717,Maximum Score From Removing Substrings,https://leetcode.com/problems/maximum-score-from-removing-substrings/,Medium,Greedy
+1642,Furthest Building You Can Reach,https://leetcode.com/problems/furthest-building-you-can-reach/,Medium,Greedy
+3016,Minimum Number of Pushes to Type Word II,https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/,Medium,Greedy
+1535,Find the Winner of an Array Game,https://leetcode.com/problems/find-the-winner-of-an-array-game/,Medium,Greedy
+3218,Minimum Cost for Cutting Cake I,https://leetcode.com/problems/minimum-cost-for-cutting-cake-i/,Medium,Greedy
+3219,Minimum Cost for Cutting Cake II,https://leetcode.com/problems/minimum-cost-for-cutting-cake-ii/,Hard,Greedy
+1685,Sum of Absolute Differences in a Sorted Array,https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/,Medium,Greedy
+1727,Largest Submatrix With Rearrangements,https://leetcode.com/problems/largest-submatrix-with-rearrangements/,Medium,Greedy
+2058,Find the Minimum and Maximum Number of Nodes Between Critical Points,https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/,Medium,Greedy
+1404,Number of Steps to Reduce a Number in Binary Representation to One,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/,Medium,Greedy
+3111,Minimum Rectangles to Cover Points,https://leetcode.com/problems/minimum-rectangles-to-cover-points/,Medium,Greedy
+3035,Maximum Palindromes After Operations,https://leetcode.com/problems/maximum-palindromes-after-operations/,Medium,Greedy
+1552,Magnetic Force Between Two Balls,https://leetcode.com/problems/magnetic-force-between-two-balls/,Medium,Greedy
+1509,Minimum Difference Between Largest and Smallest Value in Three Moves,https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/,Medium,Greedy
+1578,Minimum Time to Make Rope Colorful,https://leetcode.com/problems/minimum-time-to-make-rope-colorful/,Medium,Greedy
+2064,Minimized Maximum of Products Distributed to Any Store,https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/,Medium,Greedy
+2462,Total Cost to Hire K Workers,https://leetcode.com/problems/total-cost-to-hire-k-workers/,Medium,Greedy
+3169,Count Days Without Meetings,https://leetcode.com/problems/count-days-without-meetings/,Medium,Greedy
+3207,Maximum Points After Enemy Battles,https://leetcode.com/problems/maximum-points-after-enemy-battles/,Medium,Greedy
+2849,Determine if a Cell Is Reachable at a Given Time,https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/,Medium,Greedy
+3048,Earliest Second to Mark Indices I,https://leetcode.com/problems/earliest-second-to-mark-indices-i/,Medium,Greedy
+1838,Frequency of the Most Frequent Element,https://leetcode.com/problems/frequency-of-the-most-frequent-element/,Medium,Greedy
+3397,Maximum Number of Distinct Elements After Operations,https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/,Medium,Greedy
+3066,Minimum Operations to Exceed Threshold Value II,https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/,Medium,Greedy
+3170,Lexicographically Minimum String After Removing Stars,https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/,Medium,Greedy
+3362,Zero Array Transformation III,https://leetcode.com/problems/zero-array-transformation-iii/,Medium,Greedy
+1057,Campus Bikes,https://leetcode.com/problems/campus-bikes/,Medium,Greedy
+995,Minimum Number of K Consecutive Bit Flips,https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/,Hard,Greedy
+3191,Minimum Operations to Make Binary Array Elements Equal to One I,https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/,Medium,Greedy
+3192,Minimum Operations to Make Binary Array Elements Equal to One II,https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii/,Medium,Greedy
+502,IPO,https://leetcode.com/problems/ipo/,Hard,Greedy
+330,Patching Array,https://leetcode.com/problems/patching-array/,Hard,Greedy
+2577,Minimum Time to Visit a Cell In a Grid,https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/,Hard,Greedy
+1402,Reducing Dishes,https://leetcode.com/problems/reducing-dishes/,Hard,Greedy
+2366,Minimum Replacements to Sort the Array,https://leetcode.com/problems/minimum-replacements-to-sort-the-array/,Hard,Greedy
+2448,Minimum Cost to Make Array Equal,https://leetcode.com/problems/minimum-cost-to-make-array-equal/,Hard,Greedy
+2551,Put Marbles in Bags,https://leetcode.com/problems/put-marbles-in-bags/,Hard,Greedy
+1326,Minimum Number of Taps to Open to Water a Garden,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/,Hard,Greedy
+2616,Minimum Time to Complete All Tasks,https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/,Hard,Greedy
+3229,Minimum Operations to Make Array Equal to Target,https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/,Hard,Greedy
+3139,Minimum Cost to Equalize Array,https://leetcode.com/problems/minimum-cost-to-equalize-array/,Hard,Greedy
+3443,Maximum Manhattan Distance After K Changes,https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/,Medium,Greedy
+3457,Eat Pizzas,https://leetcode.com/problems/eat-pizzas/,Medium,Greedy
+3458,Select K Disjoint Special Substrings,https://leetcode.com/problems/select-k-disjoint-special-substrings/,Medium,Greedy
+3462,Maximum Sum With at Most K Elements,https://leetcode.com/problems/maximum-sum-with-at-most-k-elements/,Medium,Greedy
+100,Same Tree,https://leetcode.com/problems/same-tree/,Easy,Tree
+101,Symmetric Tree,https://leetcode.com/problems/symmetric-tree/,Easy,Tree
+94,Binary Tree Inorder Traversal,https://leetcode.com/problems/binary-tree-inorder-traversal/,Easy,Tree
+404,Sum of Left Leaves,https://leetcode.com/problems/sum-of-left-leaves/,Easy,Tree
+543,Diameter of Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,Easy,Tree
+606,Construct String from Binary Tree,https://leetcode.com/problems/construct-string-from-binary-tree/,Easy,Tree
+872,Leaf-Similar Trees,https://leetcode.com/problems/leaf-similar-trees/,Easy,Tree
+938,Range Sum of BST,https://leetcode.com/problems/range-sum-of-bst/,Easy,Tree
+2331,Evaluate Boolean Binary Tree,https://leetcode.com/problems/evaluate-boolean-binary-tree/,Easy,Tree
+98,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,Medium,Tree
+106,Construct Binary Tree from Inorder and Postorder Traversal,https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/,Medium,Tree
+109,Convert Sorted List to Binary Search Tree,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/,Medium,Tree
+236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Medium,Tree
+513,Find Bottom Left Tree Value,https://leetcode.com/problems/find-bottom-left-tree-value/,Medium,Tree
+623,Add One Row to Tree,https://leetcode.com/problems/add-one-row-to-tree/,Medium,Tree
+662,Maximum Width of Binary Tree,https://leetcode.com/problems/maximum-width-of-binary-tree/,Medium,Tree
+865,Smallest Subtree with all the Deepest Nodes,https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/,Medium,Tree
+958,Check Completeness of a Binary Tree,https://leetcode.com/problems/check-completeness-of-a-binary-tree/,Medium,Tree
+979,Distribute Coins in Binary Tree,https://leetcode.com/problems/distribute-coins-in-binary-tree/,Medium,Tree
+988,Smallest String Starting From Leaf,https://leetcode.com/problems/smallest-string-starting-from-leaf/,Medium,Tree
+1026,Maximum Difference Between Node and Ancestor,https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/,Medium,Tree
+1038,Binary Search Tree to Greater Sum Tree,https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/,Medium,Tree
+1110,Delete Nodes And Return Forest,https://leetcode.com/problems/delete-nodes-and-return-forest/,Medium,Tree
+1325,Delete Leaves With a Given Value,https://leetcode.com/problems/delete-leaves-with-a-given-value/,Medium,Tree
+1372,Longest ZigZag Path in a Binary Tree,https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/,Medium,Tree
+1530,Number of Good Leaf Nodes Pairs,https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/,Medium,Tree
+1609,Even Odd Tree,https://leetcode.com/problems/even-odd-tree/,Medium,Tree
+2096,Step-By-Step Directions From a Binary Tree Node to Another,https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/,Medium,Tree
+2196,Create Binary Tree From Descriptions,https://leetcode.com/problems/create-binary-tree-from-descriptions/,Medium,Tree
+2265,Count Nodes Equal to Average of Subtree,https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/,Medium,Tree
+2415,Reverse Odd Levels of Binary Tree,https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/,Medium,Tree
+2471,Minimum Number of Operations to Sort a Binary Tree by Level,https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/,Medium,Tree
+1569,Number of Ways to Reorder Array to Get Same BST,https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/,Hard,Tree
+1261,Find Elements in a Contaminated Binary Tree,https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/,Medium,Tree
+1028,Recover a Tree From Preorder Traversal,https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/,Hard,Tree
+889,Construct Binary Tree from Preorder and Postorder Traversal,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/,Medium,Tree
+2467,Most Profitable Path in a Tree,https://leetcode.com/problems/most-profitable-path-in-a-tree/,Medium,Tree
+1,Two Sum,https://leetcode.com/problems/two-sum/,Easy,Array
+1002,Find Common Characters,https://leetcode.com/problems/find-common-characters/,Easy,Array
+1122,Relative Sort Array,https://leetcode.com/problems/relative-sort-array/,Easy,Array
+977,Squares of a Sorted Array,https://leetcode.com/problems/squares-of-a-sorted-array/,Easy,Array
+1051,Height Checker,https://leetcode.com/problems/height-checker/,Easy,Array
+3152,Special Array II,https://leetcode.com/problems/special-array-ii/,Medium,Array
+3151,Special Array I,https://leetcode.com/problems/special-array-i/,Easy,Array
+1684,Count the Number of Consistent Strings,https://leetcode.com/problems/count-the-number-of-consistent-strings/,Easy,Array
+1688,Count of Matches in Tournament,https://leetcode.com/problems/count-of-matches-in-tournament/,Easy,Array
+1496,Path Crossing,https://leetcode.com/problems/path-crossing/,Easy,Array
+3206,Alternating Groups I,https://leetcode.com/problems/alternating-groups-i/,Easy,Array
+3208,Alternating Groups II,https://leetcode.com/problems/alternating-groups-ii/,Medium,Array
+3105,Longest Strictly Increasing or Strictly Decreasing Subarray,https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/,Easy,Array
+2706,Buy Two Chocolates,https://leetcode.com/problems/buy-two-chocolates/,Easy,Array
+2566,Maximum Difference by Remapping a Digit,https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/,Easy,Array
+2652,Find the Array Concatenation Value,https://leetcode.com/problems/sum-multiples/,Easy,Array
+1582,Special Positions in a Binary Matrix,https://leetcode.com/problems/special-positions-in-a-binary-matrix/,Easy,Array
+3028,Ant on the Boundary,https://leetcode.com/problems/ant-on-the-boundary/,Easy,Array
+1380,Lucky Numbers in a Matrix,https://leetcode.com/problems/lucky-numbers-in-a-matrix/,Easy,Array
+2864,Maximum Odd Binary Number,https://leetcode.com/problems/maximum-odd-binary-number/,Easy,Array
+3132,Find the Integer Added to Array II,https://leetcode.com/problems/find-the-integer-added-to-array-ii/,Medium,Array
+3131,Find the Integer Added to Array I,https://leetcode.com/problems/find-the-integer-added-to-array-i/,Easy,Array
+3136,Valid Word,https://leetcode.com/problems/valid-word/,Easy,Array
+2570,Merge Two 2D Arrays by Summing Values,https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/,Easy,Array
+238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Medium,Array
+525,Contiguous Array,https://leetcode.com/problems/contiguous-array/,Medium,Array
+974,Subarray Sums Divisible by K,https://leetcode.com/problems/subarray-sums-divisible-by-k/,Medium,Array
+846,Hand of Straights,https://leetcode.com/problems/hand-of-straights/,Medium,Array
+1296,Divide Array in Sets of K Consecutive Numbers,https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/,Medium,Array
+3076,Shortest Uncommon Substring in an Array,https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/,Medium,Array
+3039,Apply Operations to Make String Empty,https://leetcode.com/problems/apply-operations-to-make-string-empty/,Medium,Array
+1424,Diagonal Traverse II,https://leetcode.com/problems/diagonal-traverse-ii/,Medium,Array
+80,Remove Duplicates from Sorted Array II,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/,Medium,Array
+769,Max Chunks To Make Sorted,https://leetcode.com/problems/max-chunks-to-make-sorted/,Medium,Array
+3100,Water Bottles II,https://leetcode.com/problems/water-bottles-ii/,Medium,Array
+1438,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/,Medium,Array
+3070,Count Submatrices with Top-Left Element and Sum Less Than k,https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/,Medium,Array
+1686,Stone Game VI,https://leetcode.com/problems/stone-game-vi/,Medium,Array
+59,Spiral Matrix II,https://leetcode.com/problems/spiral-matrix-ii/,Medium,Array
+54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Medium,Array
+1689,Partitioning Into Minimum Number Of Deci-Binary Numbers,https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/,Medium,Array
+451,Sort Characters By Frequency,https://leetcode.com/problems/sort-characters-by-frequency/,Medium,Array
+3030,Find the Grid of Region Average,https://leetcode.com/problems/find-the-grid-of-region-average/,Medium,Array
+1171,Remove Zero Sum Consecutive Nodes from Linked List,https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/,Medium,Array
+2353,Design a Food Rating System,https://leetcode.com/problems/design-a-food-rating-system/,Medium,Array
+573,Squirrel Simulation,https://leetcode.com/problems/squirrel-simulation/,Medium,Array
+2567,Minimum Impossible OR,https://leetcode.com/problems/minimum-score-by-changing-two-elements/,Medium,Array
+3175,Find The First Player to win K Games in a Row,https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row/,Medium,Array
+3121,Count the Number of Special Characters II,https://leetcode.com/problems/count-the-number-of-special-characters-ii/,Medium,Array
+3120,Count the Number of Special Characters I,https://leetcode.com/problems/count-the-number-of-special-characters-i/,Easy,Array
+3153,Sum of Digit Differences of All Pairs,https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs/,Medium,Array
+3071,Minimum Operations to Write the Letter Y on a Grid,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/,Medium,Array
+1701,Average Waiting Time,https://leetcode.com/problems/average-waiting-time/,Medium,Array
+3096,Minimum Levels to Gain More Points,https://leetcode.com/problems/minimum-levels-to-gain-more-points/,Medium,Array
+1074,Number of Submatrices That Sum to Target,https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/,Hard,Array
+3027,Find the Number of Ways to Place People II,https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/,Hard,Array
+2569,Handling Sum Queries After Update,https://leetcode.com/problems/handling-sum-queries-after-update/,Hard,Array
+3381,Maximum Subarray Sum With Length Divisible by K,https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/,Medium,Array
+3017,Count the Number of Houses at a Certain Distance II,https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/,Hard,Array
+2654,Substring XOR Queries,https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/,Medium,Array
+910,Smallest Range II,https://leetcode.com/problems/smallest-range-ii/,Medium,Array
+1752,Check if Array Is Sorted and Rotated,https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/,Easy,Array
+3440,Reschedule Meetings for Maximum Free Time II,https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/,Medium,Array
+1800,Maximum Ascending Subarray Sum,https://leetcode.com/problems/maximum-ascending-subarray-sum/,Easy,Array
+1790,Check if One String Swap Can Make Strings Equal,https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/,Easy,Array
+1726,Tuple with Same Product,https://leetcode.com/problems/tuple-with-same-product/,Medium,Array
+1352,Product of the Last K Numbers,https://leetcode.com/problems/product-of-the-last-k-numbers/,Medium,Array
+1524,Number of Sub-arrays With Odd Sum,https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/,Medium,Array
+1749,Maximum Absolute Sum of Any Subarray,https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/,Medium,Array
+2460,Apply Operations to an Array,https://leetcode.com/problems/apply-operations-to-an-array/,Easy,Array
+3468,Find the Number of Copy Arrays,https://leetcode.com/problems/find-the-number-of-copy-arrays/,Medium,Array
+3478,Choose K Elements With Maximum Sum,https://leetcode.com/problems/choose-k-elements-with-maximum-sum/,Medium,Array
+2780,Minimum Index of a Valid Split,https://leetcode.com/problems/minimum-index-of-a-valid-split/,Medium,Array

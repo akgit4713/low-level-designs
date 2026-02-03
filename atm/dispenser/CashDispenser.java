@@ -54,6 +54,7 @@ public class CashDispenser {
      * @throws CashDispenserException if cannot dispense
      */
     public Map<Denomination, Integer> dispense(BigDecimal amount) {
+
         if (!canDispense(amount)) {
             throw new CashDispenserException(
                 "Cannot dispense ₹" + amount + ". Please try a different amount.",
@@ -61,7 +62,9 @@ public class CashDispenser {
                 getTotalCash()
             );
         }
-        return cashInventory.dispense(amount);
+        Map<Denomination, Integer>  denominationIntegerMap = handlerChain.dispense(amount.intValue());
+        cashInventory.updateInventory(denominationIntegerMap);
+        return  denominationIntegerMap;
     }
 
     /**
